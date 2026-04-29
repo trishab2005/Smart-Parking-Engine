@@ -1,4 +1,4 @@
-## 🚗 SMART PARKING ENGINE 
+# 🚗 SMART PARKING ENGINE 
 
 A full-stack **Smart Parking Management System** built using **Spring Boot + React** that automates vehicle parking, exit, and real-time slot tracking.
 
