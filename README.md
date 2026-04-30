@@ -69,7 +69,7 @@ Frontend and backend are separated:
 - Hibernate / JPA
 
 ### Database
-- MySQL / H2
+- OracleSQL / H2
 
 ---
 ## 📂 PROJECT STRUCTURE
